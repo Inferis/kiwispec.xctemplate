@@ -10,7 +10,7 @@ Writing a lot of Kiwi specs lately, I decided I needed a template in Xcode for c
 Installation
 ------------
 1. Clone the repo to your machine. 
-2. Copy the `Kiwi Spec.xctemplate` folder into `~/Library
+2. Copy the `Kiwi Spec.xctemplate` folder into `~/Library/Developer/Xcode/File Templates/Cocoa Touch` (it's entirely possible you might have to create some folders in order to be able to do that)
 3. You don't even have to restart Xcode
 
 Usage
